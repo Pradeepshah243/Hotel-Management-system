@@ -67,5 +67,3 @@ This is the repository for Final Project of IS207 (Web Application Development) 
 <h3>Customers</h3>
 
 ![customers]https://github.com/Pradeepshah243/Hotel-Management-system
-
-
