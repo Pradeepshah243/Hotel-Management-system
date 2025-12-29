@@ -4,7 +4,7 @@
     if (isset($_SESSION['id']) && isset($_SESSION['username'])){
 ?>
 <nav class='sidebar'>
-    <header><i class="fa fa-building"></i> VIRESORT</header>
+    <header><i class="fa fa-building"></i> PSRESORT</header>
     <div class='sidebar-content'>
     <ul>
         <li><a href="index.php?page=home"><i class="fa fa-home"></i> Home</a></li>
@@ -22,7 +22,6 @@
         <li><a href="logout.php" class="logout"> <?php echo $_SESSION['username'] ?> <i class="fa fa-power-off"></i></a></li>
     <?php
     }else{
-        header("Location: login.php");
         exit();
     }
   ?>

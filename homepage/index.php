@@ -19,7 +19,7 @@
     
     <div class="w3-padding w3-display-middle w3-hide-small" style="width:65%;opacity:0.9">
     <div class="w3-container w3-2020-ash">
-      <h2><i class="fa fa-bed w3-margin-right"></i>VIRESORT</h2>
+      <h2><i class="fa fa-bed w3-margin-right"></i>PSRESORT</h2>
     </div>
     <div class="w3-container w3-white w3-padding-16">
       <form action="/action_page.php" target="_blank">

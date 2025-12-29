@@ -46,9 +46,11 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php"><img src="images/logo1.png"  alt="holiday crown"></a>
+                    <a class="navbar-brand" href="index.php" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="images/favicon1.png" alt="PS resort" style="height: 40px; width: auto; margin-right: 10px;">
+    <span style="font-size: 20px; font-weight: bold; color: #000;">PS RESORT</span>
+</a>
                 </div>
-            
                 <div class='collapse navbar-collapse navbar-right' id='bs-example-navbar-collapse-1'>
                     <ul class='nav navbar-nav'>
                         <li><a href="index.php">Home</a></li>

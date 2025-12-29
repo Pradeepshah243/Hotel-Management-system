@@ -1,7 +1,14 @@
 <?php include 'Header.php';
 
 ?>
-
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1
+/crypto-js.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1
+/hmac-sha256.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1
+/enc-base64.min.js"></script>
+</head>
 <div id="information" class="spacer reserve-info ">
 <div class="container">
 <div class="row">
@@ -65,6 +72,20 @@
             <textarea class="form-control"  placeholder="Message" rows="4" name="message"></textarea>
         </div>
         <button class="btn btn-default">Submit</button>
+        <form action="https://rc-epay.esewa.com.np/api/epay/main/v2/form" method="POST">
+        <input type="hidden" id="amount" name="amount" value="1000" required>
+        <input type="hidden" id="tax_amount" name="tax_amount" value ="100" required>
+        <input type="hidden" id="total_amount" name="total_amount" value="110" required>
+        <input type="hidden" id="transaction_uuid" name="transaction_uuid" value="241028" required>
+        <input type="hidden" id="product_code" name="product_code" value ="EPAYTEST" required>
+        <input type="hidden" id="product_service_charge" name="product_service_charge" value="0" required>
+        <input type="hidden" id="product_delivery_charge" name="product_delivery_charge" value="0" required>
+        <input type="hidden" id="success_url" name="success_url" value="https://developer.esewa.com.np/success" required>
+        <input type="hidden" id="failure_url" name="failure_url" value="https://developer.esewa.com.np/failure" required>
+        <input type="hidden" id="signed_field_names" name="signed_field_names" value="total_amount,transaction_uuid,product_code" required>
+        <input type="hidden" id="signature" name="signature" value="i94zsd3oXF6ZsSr/kGqT4sSzYQzjj1W/waxjWyRwaME=" required>
+        <input value="Submit" type="submit" hidden>
+ </form>
     </form>    
 </div>
 </div>  

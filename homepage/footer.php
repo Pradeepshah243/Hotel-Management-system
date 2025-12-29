@@ -4,10 +4,10 @@
                 <div class="col-sm-5">
                     <h4>Vieresort</h4>
                     <ul class='list-unstyled'>
-                        <li>Address: Phú Quốc island, Việt Nam</li>
-                        <li>Hotline: 1900 1533</li>
-                        <li>Reception: +84 1234 5678</li>
-                        <li>Email: viresort@gmail.com</li>
+                        <li>Address: Janakpur, Nepal</li>
+                        <li>Hotline: 041 548801</li>
+                        <li>Reception: +977 9812148801</li>
+                        <li>Email: PSresort@gmail.com</li>
                     </ul>
                 </div>              
                  

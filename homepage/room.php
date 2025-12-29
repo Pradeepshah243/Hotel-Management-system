@@ -10,10 +10,17 @@
             <br>
             <div class="w3-container">
                 <h3><b>Single room</b></h3>
-                <h4>ON-GOING, <span class="w3-opacity">December 26, 2022</span></h4>
+                <h4>ON-GOING, <span class="w3-opacity">December 26, 2024</span></h4>
             </div>
             <div class="w3-container">
-                <p>Phòng đơn 1 giường ngủ, 1 TV với đầy đủ các thiết bị tiện nghi có sẵn. (Chưa bao gồm thức ăn) </p>
+                <p>Free WiFi
+Free parking
+Non-smoking rooms
+Restaurant
+Room service
+Facilities for disabled guests
+Tea/coffee maker in all rooms
+Breakfast </p>
                 <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i></p>
                 <div class="w3-row">
                     <div class="w3-col m8 s12">
@@ -36,10 +43,17 @@
             <br>
             <div class="w3-container">
                 <h3><b>Double room</b></h3>
-                <h4>ON-GOING, <span class="w3-opacity">December 26, 2022</span></h4>
+                <h4>ON-GOING, <span class="w3-opacity">December 26, 2024</span></h4>
             </div>
             <div class="w3-container">
-                <p>Phòng đôi 2 giường ngủ, 1 TV với đầy đủ các thiết bị tiện nghi có sẵn. (Đã bao gồm thức ăn) </p>
+                <p>Free WiFi
+Free parking
+Non-smoking rooms
+Restaurant
+Room service
+Facilities for disabled guests
+Tea/coffee maker in all rooms
+Breakfast </p>
                 <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i> <i class="fa fa-cutlery"></i></p>
                 <div class="w3-row">
                     <div class="w3-col m8 s12">
@@ -62,10 +76,17 @@
             <br>
             <div class="w3-container">
                 <h3><b>Deluxe room</b></h3>
-                <h4>ON-GOING, <span class="w3-opacity">December 26, 2022</span></h4>
+                <h4>ON-GOING, <span class="w3-opacity">December 26, 2025</span></h4>
             </div>
             <div class="w3-container">
-                <p>Phòng deluxe gồm 1 giường ngủ, 1 TV với đầy đủ các thiết bị tiện nghi có sẵn, phục vụ thức uống. (Đã bao gồm thức ăn) </p>
+                <p>Free WiFi
+Free parking
+Non-smoking rooms
+Restaurant
+Room service
+Facilities for disabled guests
+Tea/coffee maker in all rooms
+Breakfast </p>
                 <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i> <i class="fa fa-cutlery"></i></p>
                 <div class="w3-row">
                     <div class="w3-col m8 s12">
