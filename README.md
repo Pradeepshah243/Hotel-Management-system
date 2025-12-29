@@ -23,10 +23,10 @@ This is the repository for Final Project of IS207 (Web Application Development) 
   <li>Run XAMPP and start "Apache" & "MySQL"</li>
   <li>Open link phpMyAdmin <code>localhost/phpmyadmin/</code> and create a database <code>myhotel</code></li>
   <li>After clicking database, click import and select the file <code>myhotel.sql</code> in folder <code>Data</code></li>
-  <li>Run the project: Open the link</li>
+  <li>Run the project on live server:</li>
   <ul>
-    <li>Homepage: <code>http://localhost/Hotel/homepage/index.php</code></li>
-    <li>Managment: <code>localhost/Hotel/admin/login.php</code></li>
+    <li>Homepage: <a href="https://pradeepraut.free.nf/Hotel/homepage/room.php" target="_blank">https://pradeepraut.free.nf/Hotel/homepage/room.php</a></li>
+    <li>Admin Panel: <a href="https://pradeepraut.free.nf/Hotel/admin/login.php" target="_blank">https://pradeepraut.free.nf/Hotel/admin/login.php</a></li>
     <ul>
       <li>Account for admin:</li>
       <code>Username: Admin</code>
